@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">My Application</string>
+    <string name="app_name">HeyoWorld</string>
     <string name="title_activity_heyo_card_service">Heyo Live Card</string>
     <string name="action_stop">Stop</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="heyo_world">Heyo world!</string>
+    <string name="heyo_voice_trigger">Heyo there</string>
 
 </resources>
