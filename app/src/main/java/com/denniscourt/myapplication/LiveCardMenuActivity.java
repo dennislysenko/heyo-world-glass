@@ -56,7 +56,9 @@ public class LiveCardMenuActivity extends Activity implements TextToSpeech.OnIni
         switch (item.getItemId()) {
             case R.id.action_stop:
                 // Stop the service which will unpublish the live card.
-                //stopService(new Intent(this, HeyoCardService.class));
+                stopService(new Intent(this, HeyoCardService.class));
+                return true;
+            case R.id.action_play:
                 speak("Heyo stop Hayo stop Hey o stop Hey oh stop Hay oh");
                 return true;
             default:

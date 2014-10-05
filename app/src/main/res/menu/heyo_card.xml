@@ -3,4 +3,7 @@
         android:id="@+id/action_stop"
         android:title="@string/action_stop"
         android:icon="@drawable/ic_stop" />
+    <item
+        android:id="@+id/action_play"
+        android:title="@string/action_play"/>
 </menu>

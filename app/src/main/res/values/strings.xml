@@ -3,8 +3,9 @@
 
     <string name="app_name">HeyoWorld</string>
     <string name="title_activity_heyo_card_service">Heyo Live Card</string>
-    <string name="action_stop">Stop</string>
-    <string name="heyo_world">Heyo world!</string>
-    <string name="heyo_voice_trigger">Heyo there</string>
+    <string name="action_stop">Mischief managed</string>
+    <string name="action_play">Heyo</string>
+    <string name="heyo_world">Greetings Padfoot!</string>
+    <string name="heyo_voice_trigger">I solemnly swear I am up to no good</string>
 
 </resources>
